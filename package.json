@@ -1,0 +1,19 @@
+{
+  "name": "testbootstrapcreative",
+  "version": "1.0.0",
+  "description": "Premier test du tuto de projet avec ajout du template bootstrap creative",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/choum20/TestBootstrapCreative.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/choum20/TestBootstrapCreative/issues"
+  },
+  "homepage": "https://github.com/choum20/TestBootstrapCreative#readme"
+}
